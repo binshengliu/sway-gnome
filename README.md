@@ -62,7 +62,7 @@ You need to manually install these dependencies first:
  * swaylock - for screen lock
  * redshift - for automatic screen dimming
  * policykit-1-gnome - privilege management
- * mako - lightweight Wayland
+ * mako - lightweight Wayland notification daemon
  * [kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration for Wayland
  * gnome-keyring - manage SSH keys, PKCS11 and other secrets
  * gnome-session-bin - the gnome session binary itself
